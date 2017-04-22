@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+        android:id="@+id/specificDate_calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        app:mcv_selectionColor="@color/colorAccent"
+        app:mcv_showOtherDates="all" />
+
+    <LinearLayout
+        android:id="@+id/specificDate_btnLayout"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/specificDate_negativeBtn"
+            style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/dialog_negative_btn" />
+
+        <Button
+            android:id="@+id/specificDate_positiveBtn"
+            style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/dialog_positive_btn" />
+    </LinearLayout>
+
+</LinearLayout>

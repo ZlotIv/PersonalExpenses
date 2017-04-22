@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мои расходы</string>
+    <string name="drawer_stat">Статистика</string>
+    <string name="drawer_day_stat">Сутки</string>
+    <string name="drawer_month_stat">Месяц</string>
+    <string name="drawer_year_stat">Год</string>
+    <string name="drawer_allTime_stat">Всё время</string>
+    <string name="drawer_specific_stat">Конкретный период</string>
+    <string name="drawer_day_stat_title">Статистика за сутки</string>
+    <string name="drawer_month_stat_title">Статистика за месяц</string>
+    <string name="drawer_year_stat_title">Статистика за год</string>
+    <string name="drawer_allTime_stat_title">Общая статистика</string>
+    <string name="drawer_specific_stat_title">Статистика за период</string>
+    <string name="drawer_clear_stat">Очистить статистику</string>
+    <string name="dialog_positive_btn">ОК</string>
+    <string name="dialog_negative_btn">Отмена</string>
+    <string name="newEntry_dialog_neutral_btn">Новая\nкатегория</string>
+    <string name="newEntry_dialog_error">Некорректная сумма</string>
+    <string name="newCategory_dialog_category_hint">Название</string>
+    <string name="new_dialog_title">Новая запись</string>
+    <string name="datePicker_dialog_title">Выборка дат</string>
+    <string name="pie_chart_empty">НЕТ ЗНАЧЕНИЙ</string>
+    <string name="pie_chart_item_dialog_hint">сумма:</string>
+    <string name="pie_chart_item_dialog_neutral_btn">Удалить</string>
+    <string name="delete_dialog_title">Удаление</string>
+    <string name="delete_dialog_entry">Вы уверены, что хотите удалить запись?</string>
+    <string name="delete_dialog_last_entry">Вы уверены, что хотите удалить последнюю запись?</string>
+    <string name="delete_dialog_category">Вы уверены, что хотите удалить категорию?</string>
+    <string name="delete_dialog_date">Вы уверены, что хотите удалить все записи за этот период?</string>
+    <string name="category_exist_error">Такая категория уже существует</string>
+    <string name="delete_dialog_empty">Записи отсутствуют</string>
+    <string name="datePicker_dialog_date_error">Отсутствуют записи за этот период</string>
+    <string name="sum_hint">Сумма</string>
+</resources>

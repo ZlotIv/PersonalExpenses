@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PersonalExpenses</string>
+    <string name="drawer_stat">Statistics</string>
+    <string name="drawer_day_stat">Day</string>
+    <string name="drawer_month_stat">Month</string>
+    <string name="drawer_year_stat">Year</string>
+    <string name="drawer_allTime_stat">All time</string>
+    <string name="drawer_specific_stat">Specific period</string>
+    <string name="drawer_day_stat_title">Statistic in a day</string>
+    <string name="drawer_month_stat_title">Statistic in a month</string>
+    <string name="drawer_year_stat_title">Statistics in a year</string>
+    <string name="drawer_specific_stat_title">Statistics for a specific period</string>
+    <string name="drawer_clear_stat">Clear statistics</string>
+    <string name="dialog_positive_btn">OK</string>
+    <string name="dialog_negative_btn">Undo</string>
+    <string name="newEntry_dialog_neutral_btn">New\ncategory</string>
+    <string name="sum_hint">Amount</string>
+    <string name="newEntry_dialog_error">Incorrect amount</string>
+    <string name="newCategory_dialog_category_hint">Name</string>
+    <string name="new_dialog_title">New Entry</string>
+    <string name="datePicker_dialog_title">Choosing dates</string>
+    <string name="pie_chart_empty">EMPTY</string>
+    <string name="pie_chart_item_dialog_hint">Amount:</string>
+    <string name="pie_chart_item_dialog_neutral_btn">Delete</string>
+    <string name="delete_dialog_title">Delete</string>
+    <string name="delete_dialog_entry">Are you sure you want to remove entry?</string>
+    <string name="delete_dialog_last_entry">Are you sure you want to remove last entry?</string>
+    <string name="delete_dialog_category">Are you sure you want to remove a category?</string>
+    <string name="delete_dialog_date">Are you sure you want to remove all entries in this period?</string>
+    <string name="category_exist_error">This category is already exist</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="delete_dialog_empty">There are no entries</string>
+    <string name="datePicker_dialog_date_error">There are no entries in this period</string>
+    <string name="drawer_allTime_stat_title">General statistics</string>
+</resources>
